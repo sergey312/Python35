@@ -4,3 +4,7 @@ def newscript(name):
 
 def secondnewcript():
     return 0
+
+
+def thirdscript():
+    return 0
